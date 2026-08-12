@@ -1,8 +1,8 @@
 {
   "28/10/2026|Pista|Inteira": {
-    "preco": 374000,
-    "quantidade": 29,
-    "id_ref": "1786500883773x960591376534761600"
+    "preco": 341000,
+    "quantidade": 31,
+    "id_ref": "1786542258153x219541942239890980"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
     "preco": 611050,
@@ -10,9 +10,9 @@
     "id_ref": "1776893591744x961221368727754200"
   },
   "28/10/2026|Arquibancada|Inteira": {
-    "preco": 315590,
-    "quantidade": 28,
-    "id_ref": "1776893184330x807591201181433200"
+    "preco": 329890,
+    "quantidade": 26,
+    "id_ref": "1786467129458x268723186564296960"
   },
   "28/10/2026|Pista|Meia Estudante": {
     "preco": 374000,
@@ -20,13 +20,13 @@
     "id_ref": "1777085262781x512081116093112000"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 341000,
-    "quantidade": 5,
-    "id_ref": "1786288996328x245450974748730100"
+    "preco": 335500,
+    "quantidade": 6,
+    "id_ref": "1786550367283x951530172328954000"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
     "preco": 350020,
-    "quantidade": 24,
+    "quantidade": 25,
     "id_ref": "1786115569862x740111052035507200"
   },
   "28/10/2026|Cadeira Inferior|Meia Estudante": {
@@ -65,9 +65,9 @@
     "id_ref": "1786533208225x953551292236412400"
   },
   "30/10/2026|Pista|Meia Estudante": {
-    "preco": 374000,
-    "quantidade": 19,
-    "id_ref": "1786407408282x949513708665953300"
+    "preco": 330000,
+    "quantidade": 20,
+    "id_ref": "1786553804562x656493769262710700"
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 340890,
@@ -85,9 +85,9 @@
     "id_ref": "1776765019808x733037574502386300"
   },
   "30/10/2026|Cadeira Superior|Inteira": {
-    "preco": 308000,
-    "quantidade": 25,
-    "id_ref": "1786546768717x667102410320026200"
+    "preco": 373010,
+    "quantidade": 22,
+    "id_ref": "1786115858668x954853663807897200"
   },
   "30/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 374000,
@@ -121,7 +121,7 @@
   },
   "31/10/2026|Pista|Inteira": {
     "preco": 440000,
-    "quantidade": 13,
+    "quantidade": 14,
     "id_ref": "1776961049047x277353720112157000"
   },
   "31/10/2026|Cadeira Inferior|Meia Estudante": {
