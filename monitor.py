@@ -13,7 +13,7 @@ CHAT_ID = os.environ["CHAT_ID"]
 
 PAGINA_DATAS = "https://buyticketbrasil.com/datas/bts%E2%80%932026worldtourarirang"
 
-PRECO_MAXIMO = 1000000  # R$ 10.000,00 em centavos
+PRECO_MAXIMO = 100000  # R$ 1.000,00 em centavos
 
 EXCLUIR = [
     "pcd",
