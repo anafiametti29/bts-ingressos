@@ -1,8 +1,8 @@
 {
   "28/10/2026|Pista|Inteira": {
-    "preco": 385000,
-    "quantidade": 30,
-    "id_ref": "1780063776551x543749374429712830"
+    "preco": 374000,
+    "quantidade": 31,
+    "id_ref": "1786500881902x192547414158788200"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
     "preco": 611050,
@@ -20,14 +20,14 @@
     "id_ref": "1777085262781x512081116093112000"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 297000,
-    "quantidade": 7,
-    "id_ref": "1786477602725x729983175676707800"
+    "preco": 308000,
+    "quantidade": 6,
+    "id_ref": "1785531143056x152788705173572580"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
-    "preco": 330000,
-    "quantidade": 25,
-    "id_ref": "1786477328506x590776345814991700"
+    "preco": 350020,
+    "quantidade": 24,
+    "id_ref": "1786115569862x740111052035507200"
   },
   "28/10/2026|Cadeira Inferior|Meia Estudante": {
     "preco": 539000,
@@ -35,9 +35,9 @@
     "id_ref": "1778593121769x806860183277258100"
   },
   "28/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
-    "preco": 253000,
-    "quantidade": 2,
-    "id_ref": "1786419519178x653665656919861800"
+    "preco": 330000,
+    "quantidade": 1,
+    "id_ref": "1778802827892x802064654614753200"
   },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 515900,
@@ -85,9 +85,9 @@
     "id_ref": "1776765019808x733037574502386300"
   },
   "30/10/2026|Cadeira Superior|Inteira": {
-    "preco": 372900,
-    "quantidade": 24,
-    "id_ref": "1786460362278x357613907528056000"
+    "preco": 324500,
+    "quantidade": 25,
+    "id_ref": "1786500576918x398655664630448640"
   },
   "30/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 373890,
@@ -173,11 +173,6 @@
     "preco": 396000,
     "quantidade": 1,
     "id_ref": "1785419838560x166741250974504540"
-  },
-  "31/10/2026|Pista|Meia Jovem Baixa Renda": {
-    "preco": 319000,
-    "quantidade": 1,
-    "id_ref": "1786404336951x181000731725089020"
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
     "preco": 352000,
