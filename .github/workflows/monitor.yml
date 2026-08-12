@@ -2,8 +2,16 @@ name: Monitor BTS BuyTicket
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-bts
+  cancel-in-progress: false
 
 jobs:
   monitor:
@@ -27,3 +35,16 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python monitor.py
+
+      - name: Salvar estado do monitor
+        run: |
+          git config user.name "BTS Monitor Bot"
+          git config user.email "actions@github.com"
+          git add estado.json
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração no estado."
+          else
+            git commit -m "Atualiza estado dos ingressos"
+            git push
+          fi
