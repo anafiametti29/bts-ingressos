@@ -3,6 +3,8 @@ import re
 import json
 import html
 import requests
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
@@ -84,7 +86,6 @@ def encontrar_paginas_eventos():
 def normalizar_html(texto):
     texto = html.unescape(texto)
 
-    # O JSON do Next.js aparece escapado dentro do HTML.
     texto = texto.replace('\\"', '"')
     texto = texto.replace("\\/", "/")
 
@@ -105,11 +106,16 @@ def obter_data_evento(texto):
     iso = match.group(1)
 
     try:
-        data = iso[:10]
-        ano, mes, dia = data.split("-")
+        data_utc = datetime.fromisoformat(
+            iso.replace("Z", "+00:00")
+        )
 
-        # O horário do site pode aparecer convertido para UTC.
-        return f"{dia}/{mes}/{ano}"
+        data_brasil = data_utc.astimezone(
+            ZoneInfo("America/Sao_Paulo")
+        )
+
+        return data_brasil.strftime("%d/%m/%Y")
+
     except Exception:
         return iso
 
