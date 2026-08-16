@@ -54,6 +54,11 @@
     "quantidade": 1,
     "id_ref": "1786671150346x750783955394817000"
   },
+  "28/10/2026|Cadeira Superior|Meia Estudante": {
+    "preco": 275000,
+    "quantidade": 1,
+    "id_ref": "1786880177438x599364644477855400"
+  },
   "30/10/2026|Pista|Inteira": {
     "preco": 385000,
     "quantidade": 43,
@@ -80,9 +85,9 @@
     "id_ref": "1776765019808x733037574502386300"
   },
   "30/10/2026|Cadeira Superior|Inteira": {
-    "preco": 373010,
-    "quantidade": 22,
-    "id_ref": "1786115860322x546572214682455000"
+    "preco": 372790,
+    "quantidade": 26,
+    "id_ref": "1786880675377x885521962233523300"
   },
   "30/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 373890,
