@@ -1,7 +1,7 @@
 {
   "28/10/2026|Pista|Inteira": {
     "preco": 330000,
-    "quantidade": 35,
+    "quantidade": 34,
     "id_ref": "1786994610637x918538127340456100"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
@@ -25,9 +25,9 @@
     "id_ref": "1786819745914x215438237232007170"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
-    "preco": 350020,
-    "quantidade": 22,
-    "id_ref": "1786115574015x148329759858898620"
+    "preco": 350350,
+    "quantidade": 20,
+    "id_ref": "1779308364006x781081890469936400"
   },
   "28/10/2026|Cadeira Inferior|Meia Estudante": {
     "preco": 539000,
@@ -35,9 +35,9 @@
     "id_ref": "1778593121769x806860183277258100"
   },
   "28/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
-    "preco": 319000,
-    "quantidade": 2,
-    "id_ref": "1786912334640x989202704250988200"
+    "preco": 330000,
+    "quantidade": 1,
+    "id_ref": "1778802827892x802064654614753200"
   },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 516890,
@@ -65,9 +65,9 @@
     "id_ref": "1786992855339x848680569757207900"
   },
   "30/10/2026|Pista|Meia Estudante": {
-    "preco": 330000,
-    "quantidade": 22,
-    "id_ref": "1786720486979x918196486579233800"
+    "preco": 286000,
+    "quantidade": 23,
+    "id_ref": "1786730873447x396257666462966200"
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 340890,
@@ -135,9 +135,9 @@
     "id_ref": "1776746306879x739067690786044700"
   },
   "31/10/2026|Pista|Meia Estudante": {
-    "preco": 308000,
-    "quantidade": 18,
-    "id_ref": "1786994334876x477979149896843500"
+    "preco": 330000,
+    "quantidade": 17,
+    "id_ref": "1786974910190x169280242145180670"
   },
   "31/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 395890,
@@ -161,8 +161,8 @@
   },
   "31/10/2026|Arquibancada|Inteira": {
     "preco": 385000,
-    "quantidade": 4,
-    "id_ref": "1780845410213x619457461008882000"
+    "quantidade": 3,
+    "id_ref": "1786913433889x686035396606688800"
   },
   "31/10/2026|Pista|Meia PCD": {
     "preco": 425700,
