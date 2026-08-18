@@ -11,13 +11,13 @@
   },
   "28/10/2026|Arquibancada|Inteira": {
     "preco": 330000,
-    "quantidade": 24,
-    "id_ref": "1785691776983x382226377389540900"
+    "quantidade": 23,
+    "id_ref": "1785691778500x585433135761897900"
   },
   "28/10/2026|Pista|Meia Estudante": {
-    "preco": 368500,
-    "quantidade": 27,
-    "id_ref": "1786643981627x730046346739690200"
+    "preco": 330000,
+    "quantidade": 29,
+    "id_ref": "1787079962812x944355162843887700"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
     "preco": 330000,
@@ -27,7 +27,7 @@
   "28/10/2026|Cadeira Superior|Inteira": {
     "preco": 352000,
     "quantidade": 19,
-    "id_ref": "1779109342974x367685586357788160"
+    "id_ref": "1779109343844x988182814325481300"
   },
   "28/10/2026|Cadeira Inferior|Meia Estudante": {
     "preco": 539000,
@@ -41,11 +41,11 @@
   },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 516890,
-    "quantidade": 22,
+    "quantidade": 20,
     "id_ref": "1786988525172x998462789999316900"
   },
   "28/10/2026|Pista|Meia Jovem Baixa Renda": {
-    "preco": 319000,
+    "preco": 308000,
     "quantidade": 2,
     "id_ref": "1786492826087x102977470569934000"
   },
@@ -71,7 +71,7 @@
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 340890,
-    "quantidade": 26,
+    "quantidade": 27,
     "id_ref": "1786394212629x980152495168418800"
   },
   "30/10/2026|Cadeira Inferior|Meia Estudante": {
@@ -86,8 +86,8 @@
   },
   "30/10/2026|Cadeira Superior|Inteira": {
     "preco": 372790,
-    "quantidade": 26,
-    "id_ref": "1787071417462x664273633563854600"
+    "quantidade": 24,
+    "id_ref": "1787071420739x710217751387505200"
   },
   "30/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 330000,
@@ -165,9 +165,9 @@
     "id_ref": "1786385148165x672454817113199900"
   },
   "31/10/2026|Arquibancada|Inteira": {
-    "preco": 384890,
-    "quantidade": 7,
-    "id_ref": "1787071189088x679609201951703000"
+    "preco": 330000,
+    "quantidade": 8,
+    "id_ref": "1787080333866x594151634748877000"
   },
   "31/10/2026|Pista|Meia PCD": {
     "preco": 425700,
