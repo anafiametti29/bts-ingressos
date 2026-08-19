@@ -11,8 +11,8 @@
   },
   "28/10/2026|Arquibancada|Inteira": {
     "preco": 330000,
-    "quantidade": 23,
-    "id_ref": "1785691778500x585433135761897900"
+    "quantidade": 22,
+    "id_ref": "1786762165395x801202781824319500"
   },
   "28/10/2026|Pista|Meia Estudante": {
     "preco": 330000,
@@ -20,9 +20,9 @@
     "id_ref": "1787079962812x944355162843887700"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 330000,
-    "quantidade": 6,
-    "id_ref": "1786819745914x215438237232007170"
+    "preco": 297000,
+    "quantidade": 7,
+    "id_ref": "1787156390237x562104113166262100"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
     "preco": 363000,
@@ -100,9 +100,9 @@
     "id_ref": "1787059676569x733767251393332500"
   },
   "30/10/2026|Camarote Ídolos|Inteira": {
-    "preco": 495000,
-    "quantidade": 26,
-    "id_ref": "1786979584246x893806079866358900"
+    "preco": 385000,
+    "quantidade": 27,
+    "id_ref": "1787156330678x775577762153835800"
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
     "preco": 329890,
@@ -110,7 +110,7 @@
     "id_ref": "1786978346032x691715399451945200"
   },
   "30/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
-    "preco": 281160,
+    "preco": 276100,
     "quantidade": 1,
     "id_ref": "1786579040618x111655359521666270"
   },
@@ -140,9 +140,9 @@
     "id_ref": "1776746306879x739067690786044700"
   },
   "31/10/2026|Pista|Meia Estudante": {
-    "preco": 401500,
-    "quantidade": 15,
-    "id_ref": "1786761312203x670050474357457800"
+    "preco": 399960,
+    "quantidade": 17,
+    "id_ref": "1787156166935x657289425512388500"
   },
   "31/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 451000,
@@ -155,9 +155,9 @@
     "id_ref": "1787071078840x600625359904542300"
   },
   "31/10/2026|Cadeira Inferior|Inteira": {
-    "preco": 385000,
-    "quantidade": 6,
-    "id_ref": "1787149058476x960676530818295700"
+    "preco": 693000,
+    "quantidade": 5,
+    "id_ref": "1786360037289x776785770536735600"
   },
   "31/10/2026|Camarote Ídolos|Inteira": {
     "preco": 549890,
