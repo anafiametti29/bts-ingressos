@@ -1,7 +1,7 @@
 {
   "28/10/2026|Pista|Inteira": {
     "preco": 363000,
-    "quantidade": 32,
+    "quantidade": 31,
     "id_ref": "1786644065144x793043223539899600"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
@@ -25,9 +25,9 @@
     "id_ref": "1787160152164x359915955426104000"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
-    "preco": 363000,
+    "preco": 319000,
     "quantidade": 18,
-    "id_ref": "1786549541885x983977036999050000"
+    "id_ref": "1787005836357x513103940554807230"
   },
   "28/10/2026|Cadeira Inferior|Meia Estudante": {
     "preco": 539000,
@@ -45,9 +45,9 @@
     "id_ref": "1786379320178x971667192221896700"
   },
   "28/10/2026|Pista|Meia Jovem Baixa Renda": {
-    "preco": 299444,
-    "quantidade": 2,
-    "id_ref": "1786711081488x527246133030339260"
+    "preco": 308000,
+    "quantidade": 1,
+    "id_ref": "1786492826087x102977470569934000"
   },
   "28/10/2026|Pista|Meia Idoso": {
     "preco": 297000,
@@ -108,6 +108,11 @@
     "preco": 329890,
     "quantidade": 11,
     "id_ref": "1786978346032x691715399451945200"
+  },
+  "30/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
+    "preco": 276100,
+    "quantidade": 1,
+    "id_ref": "1786579040618x111655359521666270"
   },
   "30/10/2026|Pista|Meia Jovem Baixa Renda": {
     "preco": 352000,
@@ -175,9 +180,9 @@
     "id_ref": "1786988029000x600175036917032400"
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 308000,
-    "quantidade": 3,
-    "id_ref": "1787088942614x692844271070161000"
+    "preco": 366850,
+    "quantidade": 2,
+    "id_ref": "1786583559434x156192509368975550"
   },
   "31/10/2026|Camarote Raça|Inteira": {
     "preco": 500500,
