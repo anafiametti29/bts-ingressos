@@ -21,8 +21,8 @@
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
     "preco": 275000,
-    "quantidade": 12,
-    "id_ref": "1787160154058x676225052321695200"
+    "quantidade": 11,
+    "id_ref": "1787320246205x723277479979491000"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
     "preco": 308000,
@@ -71,12 +71,12 @@
   },
   "30/10/2026|Pista|Meia Estudante": {
     "preco": 308000,
-    "quantidade": 25,
+    "quantidade": 26,
     "id_ref": "1787166985526x235319114560889060"
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 308000,
-    "quantidade": 29,
+    "quantidade": 27,
     "id_ref": "1787273883675x922408270447012200"
   },
   "30/10/2026|Cadeira Inferior|Meia Estudante": {
@@ -101,7 +101,7 @@
   },
   "30/10/2026|Cadeira Inferior|Inteira": {
     "preco": 605000,
-    "quantidade": 7,
+    "quantidade": 5,
     "id_ref": "1787059676569x733767251393332500"
   },
   "30/10/2026|Camarote Ídolos|Inteira": {
@@ -111,7 +111,7 @@
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
     "preco": 329890,
-    "quantidade": 13,
+    "quantidade": 14,
     "id_ref": "1786978346032x691715399451945200"
   },
   "30/10/2026|Pista|Meia Jovem Baixa Renda": {
@@ -155,9 +155,9 @@
     "id_ref": "1787239181971x498313202823874800"
   },
   "31/10/2026|Cadeira Inferior|Inteira": {
-    "preco": 693000,
-    "quantidade": 4,
-    "id_ref": "1786360037289x776785770536735600"
+    "preco": 770000,
+    "quantidade": 2,
+    "id_ref": "1776897383918x488511741159091800"
   },
   "31/10/2026|Camarote Ídolos|Inteira": {
     "preco": 528000,
@@ -166,7 +166,7 @@
   },
   "31/10/2026|Arquibancada|Inteira": {
     "preco": 330000,
-    "quantidade": 7,
+    "quantidade": 3,
     "id_ref": "1787253838694x478838541024708030"
   },
   "31/10/2026|Pista|Meia PCD": {
@@ -180,9 +180,9 @@
     "id_ref": "1783353254438x535767342185087040"
   },
   "31/10/2026|Pista|Meia Idoso": {
-    "preco": 269500,
-    "quantidade": 2,
-    "id_ref": "1787226418543x116218732119274460"
+    "preco": 374000,
+    "quantidade": 1,
+    "id_ref": "1785419838560x166741250974504540"
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
     "preco": 352000,
