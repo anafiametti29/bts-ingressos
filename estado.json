@@ -66,13 +66,13 @@
   },
   "30/10/2026|Pista|Inteira": {
     "preco": 366740,
-    "quantidade": 45,
+    "quantidade": 46,
     "id_ref": "1787362573998x558276959913137660"
   },
   "30/10/2026|Pista|Meia Estudante": {
-    "preco": 385000,
-    "quantidade": 26,
-    "id_ref": "1777042070085x108992179227610290"
+    "preco": 275000,
+    "quantidade": 27,
+    "id_ref": "1787423091760x881462688544502900"
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 308000,
@@ -135,9 +135,9 @@
     "id_ref": "1776746306879x739067690786044700"
   },
   "31/10/2026|Pista|Meia Estudante": {
-    "preco": 399960,
-    "quantidade": 18,
-    "id_ref": "1787156166935x657289425512388500"
+    "preco": 401500,
+    "quantidade": 17,
+    "id_ref": "1786761312203x670050474357457800"
   },
   "31/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 330000,
