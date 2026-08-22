@@ -1,7 +1,7 @@
 {
   "28/10/2026|Pista|Inteira": {
     "preco": 363000,
-    "quantidade": 33,
+    "quantidade": 34,
     "id_ref": "1787400427685x651663432998289300"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
@@ -43,11 +43,6 @@
     "preco": 495000,
     "quantidade": 25,
     "id_ref": "1787277307620x980309561046751100"
-  },
-  "28/10/2026|Pista|Meia Idoso": {
-    "preco": 297000,
-    "quantidade": 1,
-    "id_ref": "1786671150346x750783955394817000"
   },
   "28/10/2026|Camarote Experience + Pista|Inteira": {
     "preco": 880000,
