@@ -5,9 +5,9 @@
     "id_ref": "1787400427685x651663432998289300"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
-    "preco": 611050,
+    "preco": 611049,
     "quantidade": 9,
-    "id_ref": "1776893606143x349097332962358120"
+    "id_ref": "1776890669025x856971440398137200"
   },
   "28/10/2026|Arquibancada|Inteira": {
     "preco": 330000,
@@ -20,9 +20,9 @@
     "id_ref": "1787141316533x405843031622366660"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 305580,
-    "quantidade": 8,
-    "id_ref": "1787318769497x873104193220122600"
+    "preco": 305579,
+    "quantidade": 9,
+    "id_ref": "1787425538425x165114939445332200"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
     "preco": 363000,
@@ -30,18 +30,18 @@
     "id_ref": "1786549541885x983977036999050000"
   },
   "28/10/2026|Cadeira Inferior|Meia Estudante": {
-    "preco": 539000,
-    "quantidade": 1,
-    "id_ref": "1778593121769x806860183277258100"
+    "preco": 538999,
+    "quantidade": 3,
+    "id_ref": "1787427464397x579106862857288600"
   },
   "28/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
-    "preco": 330000,
-    "quantidade": 1,
-    "id_ref": "1778802827892x802064654614753200"
+    "preco": 286000,
+    "quantidade": 2,
+    "id_ref": "1787427751130x619674504299331200"
   },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 495000,
-    "quantidade": 25,
+    "quantidade": 22,
     "id_ref": "1787277307620x980309561046751100"
   },
   "28/10/2026|Camarote Experience + Pista|Inteira": {
@@ -70,9 +70,9 @@
     "id_ref": "1787362573998x558276959913137660"
   },
   "30/10/2026|Pista|Meia Estudante": {
-    "preco": 275000,
-    "quantidade": 27,
-    "id_ref": "1787423091760x881462688544502900"
+    "preco": 385000,
+    "quantidade": 26,
+    "id_ref": "1777042070085x108992179227610290"
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 308000,
@@ -156,7 +156,7 @@
   },
   "31/10/2026|Camarote Ídolos|Inteira": {
     "preco": 528000,
-    "quantidade": 25,
+    "quantidade": 22,
     "id_ref": "1787277511703x440069585695488100"
   },
   "31/10/2026|Pista|Meia PCD": {
