@@ -1,8 +1,8 @@
 {
   "28/10/2026|Pista|Inteira": {
-    "preco": 379500,
-    "quantidade": 34,
-    "id_ref": "1787600979666x952169980727224300"
+    "preco": 374000,
+    "quantidade": 35,
+    "id_ref": "1787661087236x367626044230464640"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
     "preco": 611050,
@@ -15,13 +15,13 @@
     "id_ref": "1776899997502x486449738524511900"
   },
   "28/10/2026|Pista|Meia Estudante": {
-    "preco": 330000,
-    "quantidade": 32,
+    "preco": 324500,
+    "quantidade": 33,
     "id_ref": "1787599628854x933452728308997200"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
     "preco": 275000,
-    "quantidade": 10,
+    "quantidade": 12,
     "id_ref": "1787608289851x318738188382028800"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
@@ -75,9 +75,9 @@
     "id_ref": "1787609571194x313075806050298750"
   },
   "30/10/2026|Pista|Meia Estudante": {
-    "preco": 357500,
+    "preco": 381370,
     "quantidade": 26,
-    "id_ref": "1787069423070x215247468494927260"
+    "id_ref": "1787614645022x973902142017193300"
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 319000,
@@ -115,9 +115,9 @@
     "id_ref": "1786979584246x893806079866358900"
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 308000,
-    "quantidade": 15,
-    "id_ref": "1787585727870x504684415148513500"
+    "preco": 242000,
+    "quantidade": 18,
+    "id_ref": "1787663189081x381655294833720400"
   },
   "30/10/2026|Pista|Meia Jovem Baixa Renda": {
     "preco": 352000,
@@ -196,7 +196,7 @@
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
     "preco": 297000,
-    "quantidade": 7,
+    "quantidade": 8,
     "id_ref": "1787605258219x521623152806228740"
   },
   "31/10/2026|Camarote Raça|Inteira": {
@@ -208,6 +208,11 @@
     "preco": 275000,
     "quantidade": 1,
     "id_ref": "1787597678958x253816418140079500"
+  },
+  "31/10/2026|Camarote Stadium|Inteira": {
+    "preco": 533500,
+    "quantidade": 1,
+    "id_ref": "1787666630409x521317111074175400"
   },
   "31/10/2026|Camarote Enter Experience Open Premium|Inteira": {
     "preco": 660000,
