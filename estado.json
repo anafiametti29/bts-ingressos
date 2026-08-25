@@ -21,8 +21,8 @@
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
     "preco": 275000,
-    "quantidade": 11,
-    "id_ref": "1787510893567x276355537839746880"
+    "quantidade": 10,
+    "id_ref": "1787608289851x318738188382028800"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
     "preco": 351890,
@@ -55,7 +55,7 @@
     "id_ref": "1787192661192x688879324120709400"
   },
   "28/10/2026|Cadeira Inferior|Meia PCD": {
-    "preco": 484000,
+    "preco": 396000,
     "quantidade": 1,
     "id_ref": "1787230737097x190624693154567650"
   },
