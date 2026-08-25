@@ -25,7 +25,7 @@
     "id_ref": "1787510893567x276355537839746880"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
-    "preco": 361900,
+    "preco": 351890,
     "quantidade": 18,
     "id_ref": "1787404712469x771622424762181900"
   },
@@ -41,7 +41,7 @@
   },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 495000,
-    "quantidade": 20,
+    "quantidade": 21,
     "id_ref": "1787277309171x172987612795043170"
   },
   "28/10/2026|Camarote Experience + Pista|Inteira": {
@@ -166,8 +166,8 @@
   },
   "31/10/2026|Cadeira Superior|Inteira": {
     "preco": 400000,
-    "quantidade": 32,
-    "id_ref": "1787348672472x653718974001767400"
+    "quantidade": 33,
+    "id_ref": "1787348670438x171248388538245000"
   },
   "31/10/2026|Cadeira Inferior|Inteira": {
     "preco": 770000,
