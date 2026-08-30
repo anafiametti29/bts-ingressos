@@ -20,14 +20,14 @@
     "id_ref": "1787931506713x475957651340648260"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 330000,
-    "quantidade": 10,
-    "id_ref": "1787277290823x954174645506487900"
+    "preco": 329999,
+    "quantidade": 11,
+    "id_ref": "1788107094903x368299128478176450"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
-    "preco": 357500,
-    "quantidade": 20,
-    "id_ref": "1787834429357x536645973306331800"
+    "preco": 330000,
+    "quantidade": 21,
+    "id_ref": "1788106906713x464887838059250940"
   },
   "28/10/2026|Cadeira Inferior|Meia Estudante": {
     "preco": 539000,
@@ -115,9 +115,9 @@
     "id_ref": "1786993750548x708767173434725100"
   },
   "30/10/2026|Cadeira Inferior|Inteira": {
-    "preco": 602250,
-    "quantidade": 5,
-    "id_ref": "1787059676569x733767251393332500"
+    "preco": 401500,
+    "quantidade": 6,
+    "id_ref": "1788106485621x768879088659776800"
   },
   "30/10/2026|Camarote Ídolos|Inteira": {
     "preco": 490490,
@@ -201,8 +201,8 @@
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
     "preco": 297000,
-    "quantidade": 9,
-    "id_ref": "1787927762754x447250448363728500"
+    "quantidade": 10,
+    "id_ref": "1787927761237x932988269478420000"
   },
   "31/10/2026|Camarote Raça|Inteira": {
     "preco": 495000,
