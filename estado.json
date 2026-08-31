@@ -86,8 +86,8 @@
   },
   "30/10/2026|Arquibancada|Inteira": {
     "preco": 341000,
-    "quantidade": 22,
-    "id_ref": "1787077941658x817413583800141600"
+    "quantidade": 23,
+    "id_ref": "1776822388070x304314166665171200"
   },
   "30/10/2026|Cadeira Inferior|Meia Estudante": {
     "preco": 467500,
@@ -122,7 +122,7 @@
   "30/10/2026|Arquibancada|Meia Estudante": {
     "preco": 297000,
     "quantidade": 19,
-    "id_ref": "1787934180131x263001758289507230"
+    "id_ref": "1787934178623x320553158267081540"
   },
   "30/10/2026|Arquibancada|Meia Professor": {
     "preco": 308000,
@@ -155,9 +155,9 @@
     "id_ref": "1776746306879x739067690786044700"
   },
   "31/10/2026|Pista|Meia Estudante": {
-    "preco": 368500,
-    "quantidade": 21,
-    "id_ref": "1788101613130x971294240219638900"
+    "preco": 363000,
+    "quantidade": 23,
+    "id_ref": "1788134641138x586395679248414900"
   },
   "31/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 451000,
@@ -176,8 +176,8 @@
   },
   "31/10/2026|Cadeira Superior|Inteira": {
     "preco": 399850,
-    "quantidade": 32,
-    "id_ref": "1787913461898x904034740918537500"
+    "quantidade": 31,
+    "id_ref": "1787913463741x516849166953604860"
   },
   "31/10/2026|Pista|Meia PCD": {
     "preco": 425700,
@@ -195,19 +195,19 @@
     "id_ref": "1785419838560x166741250974504540"
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 297000,
+    "preco": 294800,
     "quantidade": 11,
-    "id_ref": "1787927761237x932988269478420000"
+    "id_ref": "1788134424944x383591168215653600"
   },
   "31/10/2026|Camarote Raça|Inteira": {
-    "preco": 500500,
-    "quantidade": 1,
-    "id_ref": "1787169313926x627499162727279700"
+    "preco": 495000,
+    "quantidade": 2,
+    "id_ref": "1787962538724x541962118210473000"
   },
   "31/10/2026|Arquibancada|Inteira": {
     "preco": 110000,
     "quantidade": 3,
-    "id_ref": "1788132524999x906306151105230200"
+    "id_ref": "1788132522422x355084297380569900"
   },
   "31/10/2026|Camarote Enter Experience Open Premium|Inteira": {
     "preco": 660000,
