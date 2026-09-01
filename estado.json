@@ -54,11 +54,6 @@
     "quantidade": 1,
     "id_ref": "1787192661192x688879324120709400"
   },
-  "28/10/2026|Cadeira Inferior|Meia PCD": {
-    "preco": 275000,
-    "quantidade": 1,
-    "id_ref": "1787230737097x190624693154567650"
-  },
   "28/10/2026|Camarote Stadium|Inteira": {
     "preco": 566500,
     "quantidade": 1,
@@ -191,7 +186,7 @@
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
     "preco": 319000,
-    "quantidade": 7,
+    "quantidade": 8,
     "id_ref": "1787342941754x615201894577314800"
   },
   "31/10/2026|Camarote Raça|Inteira": {
