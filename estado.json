@@ -59,11 +59,6 @@
     "quantidade": 1,
     "id_ref": "1787710801774x425247018350074500"
   },
-  "28/10/2026|Pista|Meia PCD": {
-    "preco": 352000,
-    "quantidade": 1,
-    "id_ref": "1787766316851x504374797076612100"
-  },
   "28/10/2026|Pista|Meia Jovem Baixa Renda": {
     "preco": 286000,
     "quantidade": 3,
@@ -81,7 +76,7 @@
   },
   "30/10/2026|Pista|Meia Estudante": {
     "preco": 330000,
-    "quantidade": 33,
+    "quantidade": 34,
     "id_ref": "1787538608867x489481574958554800"
   },
   "30/10/2026|Arquibancada|Inteira": {
