@@ -34,6 +34,11 @@
     "quantidade": 1,
     "id_ref": "1778593121769x806860183277258100"
   },
+  "28/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
+    "preco": 310000,
+    "quantidade": 1,
+    "id_ref": "1778802827892x802064654614753200"
+  },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 487300,
     "quantidade": 29,
@@ -106,8 +111,8 @@
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
     "preco": 302500,
-    "quantidade": 15,
-    "id_ref": "1787285998242x959736711431350700"
+    "quantidade": 14,
+    "id_ref": "1787285999698x996092207127530200"
   },
   "30/10/2026|Pista|Meia Jovem Baixa Renda": {
     "preco": 385000,
