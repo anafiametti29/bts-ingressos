@@ -96,8 +96,8 @@
   },
   "30/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 349910,
-    "quantidade": 19,
-    "id_ref": "1786993753699x890555302678284200"
+    "quantidade": 18,
+    "id_ref": "1786993756912x478979847977353300"
   },
   "30/10/2026|Cadeira Inferior|Inteira": {
     "preco": 602250,
@@ -110,9 +110,9 @@
     "id_ref": "1788513747852x789940878173689000"
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 302500,
-    "quantidade": 14,
-    "id_ref": "1787285999698x996092207127530200"
+    "preco": 165000,
+    "quantidade": 15,
+    "id_ref": "1788725232785x447279399126987500"
   },
   "30/10/2026|Pista|Meia Jovem Baixa Renda": {
     "preco": 385000,
@@ -181,7 +181,7 @@
   },
   "31/10/2026|Arquibancada|Meia Estudante": {
     "preco": 330000,
-    "quantidade": 5,
+    "quantidade": 7,
     "id_ref": "1788415491761x309785620768736640"
   },
   "31/10/2026|Camarote Raça|Inteira": {
