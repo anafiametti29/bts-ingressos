@@ -1,8 +1,8 @@
 {
   "28/10/2026|Pista|Inteira": {
-    "preco": 368500,
-    "quantidade": 38,
-    "id_ref": "1788490198105x780516983595085600"
+    "preco": 363000,
+    "quantidade": 39,
+    "id_ref": "1788714858733x176308672785206340"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
     "preco": 528000,
@@ -10,9 +10,9 @@
     "id_ref": "1787782582097x582848348139717800"
   },
   "28/10/2026|Arquibancada|Inteira": {
-    "preco": 302500,
-    "quantidade": 18,
-    "id_ref": "1788711509299x627291665809768400"
+    "preco": 363000,
+    "quantidade": 17,
+    "id_ref": "1776743317217x894746143922814000"
   },
   "28/10/2026|Pista|Meia Estudante": {
     "preco": 330000,
@@ -50,9 +50,9 @@
     "id_ref": "1786999367056x328922834100178600"
   },
   "28/10/2026|Cadeira Superior|Meia Estudante": {
-    "preco": 165000,
-    "quantidade": 3,
-    "id_ref": "1788710887248x438012396962243140"
+    "preco": 385000,
+    "quantidade": 2,
+    "id_ref": "1788444605073x898072364793632600"
   },
   "28/10/2026|Camarote Stadium|Inteira": {
     "preco": 566500,
@@ -60,9 +60,9 @@
     "id_ref": "1787710801774x425247018350074500"
   },
   "28/10/2026|Pista|Meia Jovem Baixa Renda": {
-    "preco": 445500,
-    "quantidade": 1,
-    "id_ref": "1788184433999x493328103324321700"
+    "preco": 330000,
+    "quantidade": 2,
+    "id_ref": "1788714855274x893928321947790200"
   },
   "30/10/2026|Pista|Inteira": {
     "preco": 403590,
@@ -85,9 +85,9 @@
     "id_ref": "1787840595843x168151986239815080"
   },
   "30/10/2026|Camarote Stadium|Inteira": {
-    "preco": 385000,
-    "quantidade": 3,
-    "id_ref": "1788702614033x547267956384868350"
+    "preco": 902000,
+    "quantidade": 2,
+    "id_ref": "1787160658388x775978214651816200"
   },
   "30/10/2026|Cadeira Superior|Inteira": {
     "preco": 373450,
