@@ -160,9 +160,9 @@
     "id_ref": "1788572286168x280828006723761180"
   },
   "31/10/2026|Cadeira Superior|Inteira": {
-    "preco": 399300,
-    "quantidade": 30,
-    "id_ref": "1787913461898x904034740918537500"
+    "preco": 385000,
+    "quantidade": 31,
+    "id_ref": "1776986443544x395589593867787600"
   },
   "31/10/2026|Pista|Meia PCD": {
     "preco": 389400,
@@ -191,8 +191,8 @@
   },
   "31/10/2026|Arquibancada|Inteira": {
     "preco": 440000,
-    "quantidade": 5,
-    "id_ref": "1788437274790x932272333522518900"
+    "quantidade": 4,
+    "id_ref": "1788437275780x254068687419549020"
   },
   "31/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
     "preco": 330000,
