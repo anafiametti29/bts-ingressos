@@ -1,8 +1,8 @@
 {
   "28/10/2026|Pista|Inteira": {
     "preco": 368500,
-    "quantidade": 42,
-    "id_ref": "1788490198105x780516983595085600"
+    "quantidade": 41,
+    "id_ref": "1788490199207x371736880539265150"
   },
   "28/10/2026|Cadeira Inferior|Inteira": {
     "preco": 528000,
@@ -21,7 +21,7 @@
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
     "preco": 308000,
-    "quantidade": 12,
+    "quantidade": 13,
     "id_ref": "1788794785772x100068387832657380"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
@@ -35,9 +35,9 @@
     "id_ref": "1778593121769x806860183277258100"
   },
   "28/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
-    "preco": 297000,
-    "quantidade": 2,
-    "id_ref": "1788708530293x513511575441759900"
+    "preco": 310000,
+    "quantidade": 1,
+    "id_ref": "1778802827892x802064654614753200"
   },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 487300,
@@ -90,9 +90,9 @@
     "id_ref": "1787160658388x775978214651816200"
   },
   "30/10/2026|Cadeira Superior|Inteira": {
-    "preco": 373450,
-    "quantidade": 20,
-    "id_ref": "1785789650398x884371660641535500"
+    "preco": 373999,
+    "quantidade": 18,
+    "id_ref": "1785430609362x190085810837139700"
   },
   "30/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 349910,
@@ -140,9 +140,9 @@
     "id_ref": "1776746306879x739067690786044700"
   },
   "31/10/2026|Pista|Meia Estudante": {
-    "preco": 384890,
-    "quantidade": 20,
-    "id_ref": "1788791955431x416483760750120400"
+    "preco": 396000,
+    "quantidade": 18,
+    "id_ref": "1788134711326x548372696215795500"
   },
   "31/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 439890,
@@ -150,9 +150,9 @@
     "id_ref": "1788795578004x314483080700413760"
   },
   "31/10/2026|Cadeira Inferior|Inteira": {
-    "preco": 770000,
-    "quantidade": 1,
-    "id_ref": "1776897386035x282464430915302820"
+    "preco": 467500,
+    "quantidade": 2,
+    "id_ref": "1788557420088x493810682836504300"
   },
   "31/10/2026|Camarote Ídolos|Inteira": {
     "preco": 494890,
