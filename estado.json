@@ -111,7 +111,7 @@
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
     "preco": 318890,
-    "quantidade": 15,
+    "quantidade": 16,
     "id_ref": "1788964483165x861116909777783000"
   },
   "30/10/2026|Pista|Meia PCD": {
@@ -123,6 +123,11 @@
     "preco": 418000,
     "quantidade": 1,
     "id_ref": "1788612945495x458540365187124500"
+  },
+  "30/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
+    "preco": 275000,
+    "quantidade": 1,
+    "id_ref": "1789047198142x664982838253887400"
   },
   "30/10/2026|Camarote Enter Experience Open Premium|Inteira": {
     "preco": 660000,
