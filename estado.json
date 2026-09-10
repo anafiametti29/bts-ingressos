@@ -106,8 +106,8 @@
   },
   "30/10/2026|Camarote Ídolos|Inteira": {
     "preco": 492800,
-    "quantidade": 33,
-    "id_ref": "1788954121966x361712664647983100"
+    "quantidade": 32,
+    "id_ref": "1788954122657x687422376624033900"
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
     "preco": 307890,
@@ -123,6 +123,11 @@
     "preco": 418000,
     "quantidade": 1,
     "id_ref": "1788612945495x458540365187124500"
+  },
+  "30/10/2026|Arquibancada|Meia Jovem Baixa Renda": {
+    "preco": 366666,
+    "quantidade": 1,
+    "id_ref": "1789075916606x806805840189501300"
   },
   "30/10/2026|Camarote Enter Experience Open Premium|Inteira": {
     "preco": 660000,
