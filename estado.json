@@ -20,14 +20,14 @@
     "id_ref": "1777085263673x168662113469535650"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 308000,
+    "preco": 286000,
     "quantidade": 11,
-    "id_ref": "1789172474773x237183885912559900"
+    "id_ref": "1789235780322x763146917084668000"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
-    "preco": 330000,
-    "quantidade": 25,
-    "id_ref": "1789218224712x145903299862539800"
+    "preco": 341000,
+    "quantidade": 24,
+    "id_ref": "1789067573567x750134822557071600"
   },
   "28/10/2026|Camarote Ídolos|Inteira": {
     "preco": 488070,
@@ -54,10 +54,15 @@
     "quantidade": 1,
     "id_ref": "1789088758673x928924503162944000"
   },
+  "28/10/2026|Cadeira Superior|Meia Estudante": {
+    "preco": 319000,
+    "quantidade": 1,
+    "id_ref": "1789231416899x842815694108592000"
+  },
   "30/10/2026|Pista|Inteira": {
-    "preco": 418000,
-    "quantidade": 26,
-    "id_ref": "1776722796705x443689296928982100"
+    "preco": 363000,
+    "quantidade": 27,
+    "id_ref": "1789235926778x779847030695235200"
   },
   "30/10/2026|Pista|Meia Estudante": {
     "preco": 385000,
@@ -90,9 +95,9 @@
     "id_ref": "1788954124129x857588172447179400"
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 307835,
-    "quantidade": 15,
-    "id_ref": "1789169606698x333484264136255700"
+    "preco": 313500,
+    "quantidade": 14,
+    "id_ref": "1789228882701x609466329199653400"
   },
   "30/10/2026|Cadeira Inferior|Meia Estudante": {
     "preco": 366740,
@@ -126,7 +131,7 @@
   },
   "31/10/2026|Cadeira Superior|Meia Estudante": {
     "preco": 366740,
-    "quantidade": 3,
+    "quantidade": 4,
     "id_ref": "1789163623359x162693838684628830"
   },
   "31/10/2026|Pista|Inteira": {
@@ -141,8 +146,8 @@
   },
   "31/10/2026|Cadeira Superior|Inteira": {
     "preco": 399740,
-    "quantidade": 24,
-    "id_ref": "1786116087453x670581447498598000"
+    "quantidade": 23,
+    "id_ref": "1786116089497x636009435063583900"
   },
   "31/10/2026|Camarote Ídolos|Inteira": {
     "preco": 495000,
