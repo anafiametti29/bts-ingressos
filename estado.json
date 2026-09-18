@@ -1,23 +1,23 @@
 {
   "28/10/2026|Cadeira Inferior|Inteira": {
-    "preco": 605000,
-    "quantidade": 4,
-    "id_ref": "1789575058493x190805685478435680"
+    "preco": 600050,
+    "quantidade": 5,
+    "id_ref": "1789766646778x963774058681847600"
   },
   "28/10/2026|Pista|Inteira": {
-    "preco": 352000,
-    "quantidade": 20,
-    "id_ref": "1789757810516x237664989683965100"
+    "preco": 429000,
+    "quantidade": 18,
+    "id_ref": "1777085048761x800607756111652900"
   },
   "28/10/2026|Pista|Meia Estudante": {
-    "preco": 385000,
-    "quantidade": 18,
-    "id_ref": "1781527754897x386174640378520450"
+    "preco": 374000,
+    "quantidade": 19,
+    "id_ref": "1789764734640x315519117745498800"
   },
   "28/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 440000,
+    "preco": 352000,
     "quantidade": 8,
-    "id_ref": "1777557274751x676914910037382500"
+    "id_ref": "1789763700571x162209404132651620"
   },
   "28/10/2026|Arquibancada|Inteira": {
     "preco": 440000,
@@ -30,9 +30,9 @@
     "id_ref": "1784682607322x703171984512376400"
   },
   "28/10/2026|Cadeira Superior|Inteira": {
-    "preco": 492800,
-    "quantidade": 16,
-    "id_ref": "1789757483424x364279253976688400"
+    "preco": 385000,
+    "quantidade": 18,
+    "id_ref": "1789769836760x448909150792140350"
   },
   "28/10/2026|Camarote Experience + Pista|Inteira": {
     "preco": 880000,
@@ -65,9 +65,9 @@
     "id_ref": "1788903711752x432538837143427600"
   },
   "30/10/2026|Arquibancada|Inteira": {
-    "preco": 440000,
-    "quantidade": 8,
-    "id_ref": "1789680229885x836935049428714200"
+    "preco": 430000,
+    "quantidade": 10,
+    "id_ref": "1789764708020x803823600188785800"
   },
   "30/10/2026|Cadeira Superior|Inteira": {
     "preco": 439890,
@@ -95,9 +95,9 @@
     "id_ref": "1788412125629x392674654473283100"
   },
   "30/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 396000,
-    "quantidade": 5,
-    "id_ref": "1789687284596x159971905028202240"
+    "preco": 352000,
+    "quantidade": 6,
+    "id_ref": "1789764713427x100658897743924000"
   },
   "30/10/2026|Camarote Enter Experience Open Premium|Inteira": {
     "preco": 660000,
@@ -120,9 +120,9 @@
     "id_ref": "1776855714763x994567035393264100"
   },
   "31/10/2026|Pista|Inteira": {
-    "preco": 494990,
-    "quantidade": 11,
-    "id_ref": "1789703268825x489199829016458750"
+    "preco": 306350,
+    "quantidade": 12,
+    "id_ref": "1789769158427x817688567438638200"
   },
   "31/10/2026|Camarote Ídolos|Inteira": {
     "preco": 615999,
@@ -150,18 +150,18 @@
     "id_ref": "1789419370142x598483861390849000"
   },
   "31/10/2026|Cadeira Superior|Meia Estudante": {
-    "preco": 511500,
-    "quantidade": 1,
-    "id_ref": "1789521798958x982306343657675400"
+    "preco": 440000,
+    "quantidade": 2,
+    "id_ref": "1789763398422x617292985829329400"
   },
   "31/10/2026|Camarote Raça|Inteira": {
     "preco": 572000,
     "quantidade": 1,
     "id_ref": "1789578668243x931309333355247700"
   },
-  "31/10/2026|Arquibancada|Meia Estudante": {
-    "preco": 357500,
+  "31/10/2026|Arquibancada|Inteira": {
+    "preco": 385000,
     "quantidade": 1,
-    "id_ref": "1789692791689x676320525765759900"
+    "id_ref": "1789766441742x437272393677631300"
   }
 }
